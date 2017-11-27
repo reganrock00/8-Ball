@@ -9,6 +9,7 @@ public class Switches
 	  }
 		public static void generatingGame()
     	{
+    	  System.out.println("Ayy that's very nice!");
 		  int randomNumber1 = (int)(Math.random()*20)+1;
 		  switch (randomNumber1)
 		    {
